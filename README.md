@@ -30,15 +30,18 @@ Pulsar wants to make a positive impact on the society and the industries to make
 | Version | Date | Description  | Download |
 | -------- | -------- | -------- | ------ |
 | V1.04.07 | 2021-11-19     | Firmware Added | [👉 Click](https://aplusxgg.github.io/download/software/pcmk/tkl/V1.04.07/PulsarFusion_Installer_V1.04.07.exe) |
+| V1.04.08 | 2022-02-22||[👉 Click](https://aplusxgg.github.io/url/download/PulsarFusion_Installer_V1.04.08.exe)|
 
 ## Firmware Update
 
 | Layout | Version | Date | Description | Download |
 | -------- | -------- | -------- | -------- | ------- |
-| **ANSI** | V1.04.05 | 2021-11-19 | MAC OS Connection Problem Fixed | [👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD088CKB_NUC01KBFL_K221CVRGB_V10507.exe?v=1637294713) |
-| **ISO** |V1.04.05|2021-11-19|MAC OS Connection Problem Fixed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD133CKB_NUC01KBFL_K221UKCVRGB_V10503.exe?v=1637294737)|
-|**JIS**|V1.04.05|2021-11-19|MAC OS Connection Problem Fixed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD134CKB_NUC01KBFL_K221JPCVRGB_V10503.exe?v=1637295159)|
-
+| **ANSI TKL** | V1.04.05 | 2021-11-19 | MAC OS Connection Problem Fixed | [👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD088CKB_NUC01KBFL_K221CVRGB_V10507.exe?v=1637294713) |
+| **ISO TKL** |V1.04.05|2021-11-19|MAC OS Connection Problem Fixed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD133CKB_NUC01KBFL_K221UKCVRGB_V10503.exe?v=1637294737)|
+|**JIS TKL**|V1.04.05|2021-11-19|MAC OS Connection Problem Fixed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD134CKB_NUC01KBFL_K221JPCVRGB_V10503.exe?v=1637295159)|
+|**ANSI 60%**|V1.03.08|2022-02-22|No LED effect while FN key is pressed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD123CKB_M252KBFL_K225CVRGB_V10308.exe?v=1645514699)|
+|**ISO 60%**|V1.03.08|2022-02-22|No LED effect while FN key is pressed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD146CKB_M252KBFL_K225UKCVRGB_V10307.exe?v=1645514729)|
+|**JIS 60%**|V1.03.08|2022-02-22|No LED effect while FN key is pressed|[👉 Click](https://cdn.shopify.com/s/files/1/0455/0914/8840/files/GD147CKB_M252KBFL_K225JPCVRGB_V10307.exe?v=1645514752)|
 
 <br><br>
 
