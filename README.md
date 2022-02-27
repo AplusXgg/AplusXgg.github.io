@@ -30,7 +30,7 @@ Pulsar wants to make a positive impact on the society and the industries to make
 | Version | Date | Description  | Download |
 | -------- | -------- | -------- | ------ |
 | V1.04.07 | 2021-11-19     | Firmware Added | [👉 Click](https://aplusxgg.github.io/download/software/pcmk/tkl/V1.04.07/PulsarFusion_Installer_V1.04.07.exe) |
-| V1.04.08 | 2022-02-22||[👉 Click](https://aplusxgg.github.io/download/PulsarFusion_Installer_V1.04.08.exe)|
+| V1.04.08 | 2022-02-25|Layout adjustment for Onboard Editor|[👉 Click](https://aplusxgg.github.io/download/software/pcmk/tkl/V1.04.08/PulsarFusion_Installer_V1.04.08.exe)|
 
 ## Firmware Update
 
